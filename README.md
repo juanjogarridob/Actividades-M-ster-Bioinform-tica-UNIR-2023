@@ -1,1 +1,1 @@
-# Actividades-M-ster-Bioinform-tica-UNIR-2023
+# Actividad Grupal Introducción a la Programación Científica
