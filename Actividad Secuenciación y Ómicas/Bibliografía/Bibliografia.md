@@ -1,3 +1,5 @@
+# Bibliografía
+
 1.	Wlodarska M, Kostic AD, Xavier RJ. An integrative view of microbiome-host interactions in inflammatory bowel diseases. Cell Host Microbe [Internet]. 13 de mayo de 2015 [citado 6 de febrero de 2024];17(5):577-91. Disponible en: https://pubmed.ncbi.nlm.nih.gov/25974300/
 2.	Hamilton AL, Kamm MA, De Cruz P, Wright EK, Feng H, Wagner J, et al. Luminal microbiota related to Crohn’s disease recurrence after surgery. Gut Microbes [Internet]. 1 de noviembre de 2020 [citado 6 de febrero de 2024];11(6):1713. Disponible en: /pmc/articles/PMC7524166/
 3.	Gevers D, Kugathasan S, Denson LA, Vázquez-Baeza Y, Van Treuren W, Ren B, et al. The treatment-naive microbiome in new-onset Crohn’s disease. Cell Host Microbe [Internet]. 12 de marzo de 2014 [citado 6 de febrero de 2024];15(3):382-92. Disponible en: https://pubmed.ncbi.nlm.nih.gov/24629344/
